@@ -10,6 +10,11 @@ WooCommerce Rest API for Laravel. You can Get, Create, Update and Delete your wo
 
 [Documentation](https://codexshaper.github.io/docs/laravel-woocommerce/)
 
+## Requirements
+
+- PHP >= 8.1
+- Laravel >= 10
+
 ## Authors
 
 * **Md Abu Ahsan Basir** - [github](https://github.com/maab16)
